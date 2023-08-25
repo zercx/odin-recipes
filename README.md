@@ -1,2 +1,2 @@
 # odin-recipes
-This is a test project of creating a simple webpage.
+This is a test project of creating a simple webpage conating simple recipes.
